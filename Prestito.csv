@@ -1,0 +1,151 @@
+CODICE_PRESTITO;DATA_INIZIO_PRESTITO;DATA_FINE_PRESTITO;SUCCURSALE_PRESTITO
+1;2019-11-07;2019-12-07;Architettura
+2;2019-12-28;2020-01-27;Studi umanistici
+3;2019-12-09;2020-01-08;Giurisprudenza
+4;2019-03-03;2019-04-02;Giurisprudenza
+5;2018-02-25;2018-03-27;Studi umanistici
+6;2019-08-22;2019-09-21;Economia e management
+7;2018-08-22;2018-09-21;Studi umanistici
+8;2019-03-29;2019-04-28;Morfologia, chirurgia e medicina sperimentale
+9;2019-02-09;2019-03-11;Scienze mediche
+10;2019-10-10;2019-11-09;Architettura
+11;2020-02-23;2020-03-24;Economia e management
+12;2018-02-16;2018-03-18;Scienze biomediche e chirurgo specialistiche
+13;2019-02-27;2019-03-29;Ingegneria
+14;2018-03-07;2018-04-06;Economia e management
+15;2019-07-04;2019-08-03;Morfologia, chirurgia e medicina sperimentale
+16;2019-09-22;2019-10-22;Architettura
+17;2018-03-16;2018-04-15;Studi umanistici
+18;2018-07-29;2018-08-28;Morfologia, chirurgia e medicina sperimentale
+19;2019-04-29;2019-05-29;Morfologia, chirurgia e medicina sperimentale
+20;2018-09-21;2018-10-21;Scienze biomediche e chirurgo specialistiche
+21;2020-03-01;2020-03-31;Morfologia, chirurgia e medicina sperimentale
+22;2019-01-07;2019-02-06;Architettura
+23;2018-05-26;2018-06-25;Giurisprudenza
+24;2018-07-21;2018-08-20;Fisica e Scienze della Terra
+25;2018-04-25;2018-05-25;Scienze biomediche e chirurgo specialistiche
+26;2019-02-27;2019-03-29;Scienze biomediche e chirurgo specialistiche
+27;2018-04-25;2018-05-25;Architettura
+28;2019-06-26;2019-07-26;Morfologia, chirurgia e medicina sperimentale
+29;2019-01-30;2019-03-01;Scienze biomediche e chirurgo specialistiche
+30;2019-05-25;2019-06-24;Scienze mediche
+31;2018-08-22;2018-09-21;Ingegneria
+32;2019-04-13;2019-05-13;Economia e management
+33;2020-02-04;2020-03-05;Morfologia, chirurgia e medicina sperimentale
+34;2019-09-03;2019-10-03;Ingegneria
+35;2018-06-27;2018-07-27;Morfologia, chirurgia e medicina sperimentale
+36;2019-06-25;2019-07-25;Matematica e Informatica
+37;2019-05-27;2019-06-26;Giurisprudenza
+38;2019-09-06;2019-10-06;Scienze biomediche e chirurgo specialistiche
+39;2018-06-26;2018-07-26;Scienze biomediche e chirurgo specialistiche
+40;2020-01-13;2020-02-12;Giurisprudenza
+41;2019-10-10;2019-11-09;Scienze biomediche e chirurgo specialistiche
+42;2018-06-26;2018-07-26;Studi umanistici
+43;2019-02-27;2019-03-29;Architettura
+44;2018-05-16;2018-06-15;Morfologia, chirurgia e medicina sperimentale
+45;2018-12-16;2019-01-15;Matematica e Informatica
+46;2018-06-28;2018-07-28;Scienze biomediche e chirurgo specialistiche
+47;2019-07-29;2019-08-28;Morfologia, chirurgia e medicina sperimentale
+48;2020-01-10;2020-02-09;Scienze biomediche e chirurgo specialistiche
+49;2018-11-11;2018-12-11;Matematica e Informatica
+50;2019-02-28;2019-03-30;Matematica e Informatica
+51;2019-06-13;2019-07-13;Architettura
+52;2018-11-08;2018-12-08;Ingegneria
+53;2018-12-27;2019-01-26;Fisica e Scienze della Terra
+54;2018-12-05;2019-01-04;Giurisprudenza
+55;2018-12-01;2018-12-31;Ingegneria
+56;2018-04-24;2018-05-24;Scienze mediche
+57;2018-12-22;2019-01-21;Matematica e Informatica
+58;2019-03-17;2019-04-16;Giurisprudenza
+59;2020-02-12;2020-03-13;Morfologia, chirurgia e medicina sperimentale
+60;2019-06-20;2019-07-20;Architettura
+61;2018-08-23;2018-09-22;Scienze biomediche e chirurgo specialistiche
+62;2019-10-29;2019-11-28;Scienze mediche
+63;2018-07-17;2018-08-16;Morfologia, chirurgia e medicina sperimentale
+64;2018-05-06;2018-06-05;Matematica e Informatica
+65;2019-10-13;2019-11-12;Studi umanistici
+66;2020-01-23;2020-02-22;Economia e management
+67;2019-07-16;2019-08-15;Studi umanistici
+68;2018-01-10;2018-02-09;Architettura
+69;2019-01-12;2019-02-11;Scienze biomediche e chirurgo specialistiche
+70;2018-07-09;2018-08-08;Studi umanistici
+71;2018-11-20;2018-12-20;Scienze biomediche e chirurgo specialistiche
+72;2019-10-24;2019-11-23;Fisica e Scienze della Terra
+73;2019-07-22;2019-08-21;Matematica e Informatica
+74;2018-10-23;2018-11-22;Morfologia, chirurgia e medicina sperimentale
+75;2018-06-17;2018-07-17;Scienze biomediche e chirurgo specialistiche
+76;2018-08-14;2018-09-13;Morfologia, chirurgia e medicina sperimentale
+77;2019-02-16;2019-03-18;Fisica e Scienze della Terra
+78;2018-07-03;2018-08-02;Architettura
+79;2019-09-20;2019-10-20;Architettura
+80;2019-11-21;2019-12-21;Morfologia, chirurgia e medicina sperimentale
+81;2018-08-17;2018-09-16;Morfologia, chirurgia e medicina sperimentale
+82;2018-05-19;2018-06-18;Studi umanistici
+83;2019-03-27;2019-04-26;Economia e management
+84;2018-08-05;2018-09-04;Architettura
+85;2018-04-11;2018-05-11;Scienze biomediche e chirurgo specialistiche
+86;2019-08-08;2019-09-07;Giurisprudenza
+87;2018-02-27;2018-03-29;Giurisprudenza
+88;2019-12-30;2020-01-29;Fisica e Scienze della Terra
+89;2019-09-27;2019-10-27;Ingegneria
+90;2018-03-01;2018-03-31;Scienze biomediche e chirurgo specialistiche
+91;2018-07-22;2018-08-21;Ingegneria
+92;2019-07-02;2019-08-01;Economia e management
+93;2019-12-26;2020-01-25;Ingegneria
+94;2019-06-14;2019-07-14;Economia e management
+95;2019-09-04;2019-10-04;Scienze biomediche e chirurgo specialistiche
+96;2019-03-10;2019-04-09;Architettura
+97;2018-10-12;2018-11-11;Ingegneria
+98;2019-05-21;2019-06-20;Morfologia, chirurgia e medicina sperimentale
+99;2018-09-02;2018-10-02;Ingegneria
+100;2018-10-31;2018-11-30;Scienze biomediche e chirurgo specialistiche
+101;2020-01-21;2020-02-20;Matematica e Informatica
+102;2019-04-11;2019-05-11;Morfologia, chirurgia e medicina sperimentale
+103;2019-08-02;2019-09-01;Scienze biomediche e chirurgo specialistiche
+104;2018-07-25;2018-08-24;Matematica e Informatica
+105;2020-01-05;2020-02-04;Economia e management
+106;2019-06-27;2019-07-27;Economia e management
+107;2019-10-22;2019-11-21;Scienze mediche
+108;2018-08-24;2018-09-23;Scienze mediche
+109;2019-06-29;2019-07-29;Giurisprudenza
+110;2018-07-28;2018-08-27;Scienze biomediche e chirurgo specialistiche
+111;2019-02-06;2019-03-08;Scienze biomediche e chirurgo specialistiche
+112;2018-06-12;2018-07-12;Architettura
+113;2019-10-13;2019-11-12;Matematica e Informatica
+114;2020-01-17;2020-02-16;Economia e management
+115;2018-07-12;2018-08-11;Economia e management
+116;2019-11-20;2019-12-20;Giurisprudenza
+117;2018-02-20;2018-03-22;Scienze mediche
+118;2018-11-15;2018-12-15;Matematica e Informatica
+119;2018-08-21;2018-09-20;Studi umanistici
+120;2019-02-16;2019-03-18;Giurisprudenza
+121;2018-10-27;2018-11-26;Matematica e Informatica
+122;2019-07-05;2019-08-04;Ingegneria
+123;2018-07-20;2018-08-19;Architettura
+124;2018-02-09;2018-03-11;Morfologia, chirurgia e medicina sperimentale
+125;2018-08-13;2018-09-12;Ingegneria
+126;2018-12-25;2019-01-24;Giurisprudenza
+127;2018-06-09;2018-07-09;Fisica e Scienze della Terra
+128;2018-10-29;2018-11-28;Scienze mediche
+129;2018-07-01;2018-07-31;Matematica e Informatica
+130;2019-12-23;2020-01-22;Scienze biomediche e chirurgo specialistiche
+131;2019-03-20;2019-04-19;Morfologia, chirurgia e medicina sperimentale
+132;2018-06-20;2018-07-20;Economia e management
+133;2019-02-09;2019-03-11;Architettura
+134;2019-01-01;2019-01-31;Matematica e Informatica
+135;2018-02-22;2018-03-24;Fisica e Scienze della Terra
+136;2018-11-17;2018-12-17;Matematica e Informatica
+137;2018-06-19;2018-07-19;Economia e management
+138;2018-03-26;2018-04-25;Ingegneria
+139;2019-12-23;2020-01-22;Economia e management
+140;2018-11-17;2018-12-17;Scienze biomediche e chirurgo specialistiche
+141;2019-08-19;2019-09-18;Studi umanistici
+142;2019-11-14;2019-12-14;Morfologia, chirurgia e medicina sperimentale
+143;2019-05-10;2019-06-09;Scienze mediche
+144;2018-10-06;2018-11-05;Scienze mediche
+145;2019-12-17;2020-01-16;Fisica e Scienze della Terra
+146;2018-10-21;2018-11-20;Morfologia, chirurgia e medicina sperimentale
+147;2019-01-30;2019-03-01;Architettura
+148;2019-07-01;2019-07-31;Morfologia, chirurgia e medicina sperimentale
+149;2018-08-29;2018-09-28;Morfologia, chirurgia e medicina sperimentale
+150;2018-09-20;2018-10-20;Scienze biomediche e chirurgo specialistiche

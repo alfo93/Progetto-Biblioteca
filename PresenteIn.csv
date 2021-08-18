@@ -1,0 +1,462 @@
+CODICE_LIBRO,"SEDE",N_COPIE
+1,"Architettura",1
+1,"Giurisprudenza",1
+2,"Scienze mediche",1
+2,"Matematica e Informatica",1
+3,"Giurisprudenza",1
+3,"Studi umanistici",1
+3,"Scienze mediche",1
+4,"Giurisprudenza",1
+5,"Giurisprudenza",1
+5,"Matematica e Informatica",1
+6,"Matematica e Informatica",1
+6,"Economia e management",1
+6,"Scienze biomediche e chirurgo specialistiche",1
+6,"Architettura",1
+6,"Giurisprudenza",1
+7,"Architettura",1
+7,"Morfologia, chirurgia e medicina sperimentale",1
+7,"Fisica e Scienze della Terra",1
+8,"Morfologia, chirurgia e medicina sperimentale",1
+8,"Giurisprudenza",1
+8,"Scienze mediche",1
+8,"Fisica e Scienze della Terra",1
+8,"Architettura",1
+9,"Economia e management",1
+9,"Giurisprudenza",2
+10,"Morfologia, chirurgia e medicina sperimentale",1
+10,"Giurisprudenza",2
+10,"Fisica e Scienze della Terra",1
+11,"Ingegneria",1
+12,"Studi umanistici",1
+12,"Architettura",1
+13,"Fisica e Scienze della Terra",1
+14,"Morfologia, chirurgia e medicina sperimentale",1
+15,"Giurisprudenza",2
+15,"Studi umanistici",1
+16,"Studi umanistici",1
+16,"Scienze biomediche e chirurgo specialistiche",1
+16,"Morfologia, chirurgia e medicina sperimentale",1
+17,"Morfologia, chirurgia e medicina sperimentale",1
+18,"Economia e management",1
+18,"Studi umanistici",1
+18,"Scienze mediche",1
+18,"Matematica e Informatica",1
+18,"Architettura",1
+19,"Fisica e Scienze della Terra",1
+20,"Matematica e Informatica",1
+21,"Architettura",1
+21,"Ingegneria",1
+22,"Economia e management",1
+22,"Ingegneria",1
+22,"Scienze biomediche e chirurgo specialistiche",1
+23,"Matematica e Informatica",1
+23,"Architettura",1
+23,"Fisica e Scienze della Terra",1
+24,"Studi umanistici",1
+25,"Fisica e Scienze della Terra",1
+25,"Giurisprudenza",1
+25,"Morfologia, chirurgia e medicina sperimentale",1
+26,"Architettura",1
+26,"Morfologia, chirurgia e medicina sperimentale",1
+27,"Giurisprudenza",1
+27,"Matematica e Informatica",2
+27,"Scienze biomediche e chirurgo specialistiche",1
+27,"Studi umanistici",1
+28,"Scienze biomediche e chirurgo specialistiche",1
+28,"Scienze mediche",1
+28,"Matematica e Informatica",3
+29,"Matematica e Informatica",2
+29,"Studi umanistici",1
+30,"Scienze biomediche e chirurgo specialistiche",1
+30,"Studi umanistici",1
+30,"Architettura",1
+31,"Morfologia, chirurgia e medicina sperimentale",1
+31,"Architettura",1
+31,"Ingegneria",1
+32,"Architettura",1
+32,"Studi umanistici",1
+33,"Ingegneria",1
+34,"Ingegneria",1
+34,"Scienze mediche",1
+34,"Matematica e Informatica",1
+34,"Scienze biomediche e chirurgo specialistiche",1
+35,"Scienze mediche",2
+35,"Morfologia, chirurgia e medicina sperimentale",1
+35,"Giurisprudenza",1
+36,"Scienze biomediche e chirurgo specialistiche",1
+36,"Scienze mediche",1
+36,"Morfologia, chirurgia e medicina sperimentale",1
+37,"Scienze mediche",1
+38,"Matematica e Informatica",1
+39,"Economia e management",1
+39,"Ingegneria",1
+40,"Matematica e Informatica",1
+40,"Scienze biomediche e chirurgo specialistiche",1
+40,"Economia e management",1
+40,"Morfologia, chirurgia e medicina sperimentale",1
+40,"Scienze mediche",1
+40,"Fisica e Scienze della Terra",2
+40,"Architettura",1
+41,"Scienze biomediche e chirurgo specialistiche",1
+41,"Matematica e Informatica",1
+41,"Studi umanistici",1
+42,"Economia e management",1
+43,"Fisica e Scienze della Terra",1
+43,"Scienze biomediche e chirurgo specialistiche",2
+44,"Matematica e Informatica",1
+44,"Scienze biomediche e chirurgo specialistiche",1
+44,"Scienze mediche",2
+44,"Giurisprudenza",1
+44,"Morfologia, chirurgia e medicina sperimentale",1
+45,"Scienze mediche",1
+45,"Economia e management",2
+45,"Scienze biomediche e chirurgo specialistiche",1
+45,"Ingegneria",1
+45,"Morfologia, chirurgia e medicina sperimentale",1
+46,"Scienze mediche",1
+46,"Ingegneria",1
+46,"Architettura",1
+46,"Fisica e Scienze della Terra",1
+47,"Morfologia, chirurgia e medicina sperimentale",2
+47,"Studi umanistici",1
+48,"Fisica e Scienze della Terra",1
+49,"Studi umanistici",1
+49,"Scienze mediche",2
+50,"Morfologia, chirurgia e medicina sperimentale",1
+50,"Fisica e Scienze della Terra",1
+50,"Economia e management",1
+50,"Scienze biomediche e chirurgo specialistiche",1
+51,"Studi umanistici",1
+51,"Giurisprudenza",1
+51,"Matematica e Informatica",2
+52,"Architettura",1
+52,"Matematica e Informatica",1
+52,"Ingegneria",1
+53,"Morfologia, chirurgia e medicina sperimentale",1
+53,"Scienze mediche",1
+54,"Giurisprudenza",1
+55,"Economia e management",1
+55,"Scienze biomediche e chirurgo specialistiche",1
+55,"Matematica e Informatica",1
+55,"Architettura",2
+55,"Studi umanistici",2
+56,"Economia e management",2
+56,"Giurisprudenza",1
+56,"Studi umanistici",1
+56,"Fisica e Scienze della Terra",2
+56,"Ingegneria",1
+57,"Studi umanistici",1
+57,"Architettura",2
+57,"Scienze biomediche e chirurgo specialistiche",1
+57,"Scienze mediche",1
+58,"Scienze biomediche e chirurgo specialistiche",1
+58,"Morfologia, chirurgia e medicina sperimentale",2
+59,"Morfologia, chirurgia e medicina sperimentale",1
+59,"Studi umanistici",1
+59,"Scienze mediche",1
+60,"Giurisprudenza",2
+60,"Scienze mediche",1
+61,"Fisica e Scienze della Terra",1
+62,"Architettura",1
+62,"Fisica e Scienze della Terra",1
+62,"Scienze biomediche e chirurgo specialistiche",1
+63,"Scienze biomediche e chirurgo specialistiche",1
+63,"Morfologia, chirurgia e medicina sperimentale",1
+63,"Giurisprudenza",1
+63,"Studi umanistici",1
+64,"Matematica e Informatica",1
+64,"Scienze biomediche e chirurgo specialistiche",2
+64,"Economia e management",1
+64,"Architettura",1
+65,"Giurisprudenza",1
+66,"Giurisprudenza",2
+67,"Morfologia, chirurgia e medicina sperimentale",1
+67,"Scienze mediche",2
+67,"Fisica e Scienze della Terra",1
+68,"Architettura",1
+68,"Scienze mediche",1
+68,"Economia e management",1
+68,"Morfologia, chirurgia e medicina sperimentale",1
+69,"Studi umanistici",2
+70,"Giurisprudenza",1
+70,"Scienze biomediche e chirurgo specialistiche",1
+70,"Studi umanistici",1
+70,"Economia e management",1
+71,"Architettura",1
+71,"Studi umanistici",1
+72,"Giurisprudenza",1
+72,"Matematica e Informatica",1
+73,"Scienze biomediche e chirurgo specialistiche",2
+73,"Giurisprudenza",1
+73,"Economia e management",1
+74,"Matematica e Informatica",1
+74,"Morfologia, chirurgia e medicina sperimentale",1
+75,"Matematica e Informatica",2
+76,"Scienze mediche",1
+76,"Morfologia, chirurgia e medicina sperimentale",1
+77,"Studi umanistici",1
+77,"Ingegneria",1
+78,"Morfologia, chirurgia e medicina sperimentale",1
+78,"Fisica e Scienze della Terra",1
+78,"Giurisprudenza",1
+79,"Morfologia, chirurgia e medicina sperimentale",1
+79,"Ingegneria",1
+80,"Fisica e Scienze della Terra",1
+80,"Ingegneria",2
+81,"Architettura",2
+82,"Economia e management",1
+83,"Scienze mediche",1
+83,"Morfologia, chirurgia e medicina sperimentale",1
+84,"Studi umanistici",1
+84,"Architettura",1
+84,"Fisica e Scienze della Terra",1
+84,"Scienze biomediche e chirurgo specialistiche",2
+84,"Morfologia, chirurgia e medicina sperimentale",1
+85,"Matematica e Informatica",1
+86,"Giurisprudenza",1
+86,"Morfologia, chirurgia e medicina sperimentale",1
+86,"Economia e management",1
+87,"Economia e management",1
+87,"Scienze biomediche e chirurgo specialistiche",2
+87,"Fisica e Scienze della Terra",1
+87,"Ingegneria",1
+88,"Fisica e Scienze della Terra",1
+88,"Morfologia, chirurgia e medicina sperimentale",1
+88,"Scienze mediche",1
+89,"Fisica e Scienze della Terra",1
+89,"Matematica e Informatica",1
+89,"Giurisprudenza",1
+90,"Giurisprudenza",1
+90,"Studi umanistici",1
+91,"Ingegneria",1
+92,"Morfologia, chirurgia e medicina sperimentale",1
+92,"Fisica e Scienze della Terra",1
+93,"Fisica e Scienze della Terra",3
+93,"Studi umanistici",2
+93,"Scienze mediche",2
+93,"Scienze biomediche e chirurgo specialistiche",1
+93,"Architettura",1
+93,"Economia e management",1
+94,"Scienze biomediche e chirurgo specialistiche",1
+94,"Giurisprudenza",2
+94,"Scienze mediche",1
+94,"Ingegneria",2
+95,"Scienze mediche",1
+95,"Architettura",1
+95,"Scienze biomediche e chirurgo specialistiche",1
+96,"Scienze mediche",1
+96,"Scienze biomediche e chirurgo specialistiche",1
+96,"Studi umanistici",1
+96,"Architettura",1
+97,"Ingegneria",1
+97,"Morfologia, chirurgia e medicina sperimentale",2
+98,"Studi umanistici",1
+98,"Morfologia, chirurgia e medicina sperimentale",1
+99,"Economia e management",1
+99,"Ingegneria",2
+99,"Architettura",1
+100,"Ingegneria",1
+100,"Giurisprudenza",1
+101,"Scienze biomediche e chirurgo specialistiche",1
+101,"Architettura",1
+101,"Giurisprudenza",1
+102,"Giurisprudenza",1
+102,"Ingegneria",1
+102,"Fisica e Scienze della Terra",1
+102,"Economia e management",1
+103,"Ingegneria",1
+103,"Scienze mediche",1
+104,"Ingegneria",1
+104,"Studi umanistici",2
+104,"Fisica e Scienze della Terra",2
+104,"Morfologia, chirurgia e medicina sperimentale",2
+105,"Giurisprudenza",1
+105,"Scienze biomediche e chirurgo specialistiche",1
+106,"Scienze biomediche e chirurgo specialistiche",2
+106,"Morfologia, chirurgia e medicina sperimentale",1
+107,"Scienze mediche",1
+107,"Giurisprudenza",1
+107,"Scienze biomediche e chirurgo specialistiche",1
+108,"Matematica e Informatica",2
+108,"Fisica e Scienze della Terra",1
+108,"Scienze mediche",1
+109,"Scienze mediche",1
+110,"Matematica e Informatica",2
+110,"Morfologia, chirurgia e medicina sperimentale",1
+110,"Scienze biomediche e chirurgo specialistiche",1
+111,"Morfologia, chirurgia e medicina sperimentale",1
+111,"Studi umanistici",1
+111,"Matematica e Informatica",1
+111,"Scienze mediche",1
+112,"Ingegneria",1
+112,"Morfologia, chirurgia e medicina sperimentale",1
+113,"Morfologia, chirurgia e medicina sperimentale",1
+113,"Giurisprudenza",1
+114,"Giurisprudenza",1
+114,"Morfologia, chirurgia e medicina sperimentale",1
+114,"Economia e management",1
+115,"Ingegneria",1
+115,"Giurisprudenza",1
+116,"Matematica e Informatica",1
+117,"Studi umanistici",1
+117,"Fisica e Scienze della Terra",1
+118,"Architettura",1
+118,"Ingegneria",2
+118,"Fisica e Scienze della Terra",1
+119,"Ingegneria",1
+119,"Matematica e Informatica",1
+120,"Economia e management",1
+120,"Architettura",1
+121,"Matematica e Informatica",2
+121,"Giurisprudenza",2
+121,"Ingegneria",1
+121,"Scienze biomediche e chirurgo specialistiche",1
+122,"Scienze biomediche e chirurgo specialistiche",1
+123,"Fisica e Scienze della Terra",1
+123,"Scienze mediche",1
+123,"Morfologia, chirurgia e medicina sperimentale",1
+124,"Ingegneria",1
+124,"Economia e management",2
+124,"Architettura",1
+124,"Matematica e Informatica",1
+125,"Studi umanistici",1
+125,"Scienze mediche",1
+125,"Giurisprudenza",1
+126,"Scienze mediche",1
+126,"Fisica e Scienze della Terra",1
+127,"Giurisprudenza",1
+127,"Morfologia, chirurgia e medicina sperimentale",1
+128,"Giurisprudenza",1
+128,"Architettura",1
+128,"Morfologia, chirurgia e medicina sperimentale",1
+129,"Scienze mediche",1
+130,"Scienze biomediche e chirurgo specialistiche",1
+130,"Ingegneria",1
+131,"Studi umanistici",1
+131,"Ingegneria",1
+132,"Fisica e Scienze della Terra",2
+132,"Scienze biomediche e chirurgo specialistiche",1
+133,"Matematica e Informatica",1
+133,"Ingegneria",1
+133,"Fisica e Scienze della Terra",1
+134,"Scienze mediche",1
+135,"Scienze mediche",1
+135,"Fisica e Scienze della Terra",1
+135,"Matematica e Informatica",1
+135,"Scienze biomediche e chirurgo specialistiche",1
+136,"Fisica e Scienze della Terra",1
+136,"Ingegneria",1
+136,"Scienze mediche",1
+137,"Giurisprudenza",1
+137,"Scienze biomediche e chirurgo specialistiche",1
+137,"Scienze mediche",1
+138,"Fisica e Scienze della Terra",1
+138,"Scienze biomediche e chirurgo specialistiche",1
+139,"Studi umanistici",2
+139,"Ingegneria",1
+140,"Studi umanistici",2
+141,"Morfologia, chirurgia e medicina sperimentale",1
+141,"Studi umanistici",1
+141,"Architettura",1
+141,"Fisica e Scienze della Terra",1
+142,"Ingegneria",3
+142,"Fisica e Scienze della Terra",1
+143,"Morfologia, chirurgia e medicina sperimentale",1
+143,"Economia e management",1
+143,"Architettura",1
+144,"Fisica e Scienze della Terra",1
+144,"Giurisprudenza",1
+145,"Architettura",2
+145,"Matematica e Informatica",1
+145,"Scienze mediche",1
+146,"Architettura",2
+146,"Giurisprudenza",1
+147,"Ingegneria",1
+147,"Matematica e Informatica",1
+147,"Studi umanistici",1
+148,"Scienze biomediche e chirurgo specialistiche",1
+149,"Morfologia, chirurgia e medicina sperimentale",1
+149,"Ingegneria",1
+150,"Matematica e Informatica",1
+150,"Fisica e Scienze della Terra",1
+150,"Scienze mediche",1
+150,"Morfologia, chirurgia e medicina sperimentale",1
+150,"Architettura",1
+151,"Economia e management",1
+151,"Giurisprudenza",1
+152,"Scienze biomediche e chirurgo specialistiche",1
+152,"Morfologia, chirurgia e medicina sperimentale",1
+153,"Architettura",1
+154,"Matematica e Informatica",1
+154,"Studi umanistici",1
+155,"Matematica e Informatica",1
+155,"Studi umanistici",1
+155,"Giurisprudenza",1
+155,"Scienze biomediche e chirurgo specialistiche",1
+156,"Scienze mediche",1
+156,"Giurisprudenza",1
+156,"Morfologia, chirurgia e medicina sperimentale",1
+157,"Scienze biomediche e chirurgo specialistiche",1
+158,"Ingegneria",1
+158,"Fisica e Scienze della Terra",1
+159,"Giurisprudenza",1
+160,"Ingegneria",2
+160,"Morfologia, chirurgia e medicina sperimentale",1
+160,"Scienze biomediche e chirurgo specialistiche",1
+161,"Architettura",1
+161,"Morfologia, chirurgia e medicina sperimentale",1
+161,"Giurisprudenza",1
+161,"Matematica e Informatica",1
+162,"Architettura",1
+162,"Studi umanistici",1
+163,"Studi umanistici",1
+163,"Giurisprudenza",1
+163,"Scienze mediche",1
+163,"Matematica e Informatica",1
+164,"Scienze biomediche e chirurgo specialistiche",1
+165,"Morfologia, chirurgia e medicina sperimentale",2
+165,"Economia e management",1
+165,"Studi umanistici",1
+165,"Matematica e Informatica",1
+165,"Architettura",1
+165,"Ingegneria",1
+165,"Giurisprudenza",1
+166,"Scienze biomediche e chirurgo specialistiche",1
+166,"Economia e management",1
+166,"Matematica e Informatica",1
+167,"Economia e management",1
+167,"Matematica e Informatica",1
+167,"Architettura",2
+167,"Fisica e Scienze della Terra",1
+168,"Ingegneria",1
+168,"Scienze mediche",1
+168,"Architettura",1
+169,"Giurisprudenza",2
+169,"Fisica e Scienze della Terra",1
+170,"Ingegneria",1
+170,"Giurisprudenza",1
+171,"Economia e management",1
+172,"Morfologia, chirurgia e medicina sperimentale",1
+173,"Architettura",1
+174,"Giurisprudenza",1
+174,"Studi umanistici",1
+174,"Morfologia, chirurgia e medicina sperimentale",1
+175,"Architettura",1
+175,"Giurisprudenza",1
+175,"Matematica e Informatica",1
+176,"Matematica e Informatica",1
+176,"Scienze biomediche e chirurgo specialistiche",1
+176,"Ingegneria",1
+177,"Ingegneria",1
+177,"Scienze biomediche e chirurgo specialistiche",1
+177,"Matematica e Informatica",1
+178,"Economia e management",1
+178,"Matematica e Informatica",1
+179,"Scienze biomediche e chirurgo specialistiche",1
+180,"Architettura",1
+180,"Matematica e Informatica",1
+180,"Giurisprudenza",1
+181,"Ingegneria",1
+181,"Fisica e Scienze della Terra",1
+181,"Matematica e Informatica",1
